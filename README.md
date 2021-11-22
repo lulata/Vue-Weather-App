@@ -1,5 +1,7 @@
 # weather
 
+![Preview](weather.PNG?raw=true)
+
 ## Project setup
 ```
 npm install
